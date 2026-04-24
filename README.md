@@ -1,29 +1,29 @@
 # Day 17 Submission Package
 
-## Thong tin sinh vien
-- Ho ten: Hoang Kim Tri Thanh
+## Thông tin sinh viên
+- Họ tên: Hoàng Kim Trí Thành
 - MSSV: 2A202600372
-- Hoc phan: Day 17 - PRD & Product Market Fit
+- Học phần: Day 17 - PRD & Product Market Fit
 
-## Noi dung nop bai
-- `submission_A.md`: Phien ban A (snapshot cuoi buoi, da nop theo yeu cau in-class).
-- `submission.md`: Phien ban B (phien ban hoan thien de nop BTVN/GitHub).
+## Nội dung nộp bài
+- `submission_A.md`: Phiên bản A (snapshot cuối buổi, đã nộp theo yêu cầu in-class).
+- `submission.md`: Phiên bản B (phiên bản hoàn thiện để nộp BTVN/GitHub).
 
-## Huong dan cham nhanh
-Nguoi cham co the doc theo thu tu sau:
-1. `submission.md` - Doc tong the 6 phan theo template handbook.
-2. Muc `## 5. AI Critique Log` trong `submission.md` - Kiem tra thay doi va ly do chinh sua.
-3. `submission_A.md` - Doi chieu voi ban B de danh gia Iteration Quality.
+## Hướng dẫn chấm nhanh
+Người chấm có thể đọc theo thứ tự sau:
+1. `submission.md` - Đọc tổng thể 6 phần theo template handbook.
+2. Mục `## 5. AI Critique Log` trong `submission.md` - Kiểm tra thay đổi và lý do chỉnh sửa.
+3. `submission_A.md` - Đối chiếu với bản B để đánh giá Iteration Quality.
 
-## Doi chieu voi template Day 17 Handbook
-`submission.md` da bao gom day du:
+## Đối chiếu với template Day 17 Handbook
+`submission.md` đã bao gồm đầy đủ:
 - MVP Boundary Sheet
-- PRD Skeleton (6 thanh phan standard + 3 AI-specific)
+- PRD Skeleton (6 thành phần standard + 3 AI-specific)
 - Hypothesis Table
 - PMF Scorecard
 - AI Critique Log
 - Self-assessment
 
-## Luu y
-- Bai lam bam sat y tuong Day 16: AI PT Copilot cho nguoi moi tap khang luc.
-- Uu tien logic san pham, pham vi MVP va metric co the hanh dong.
+## Lưu ý
+- Bài làm bám sát ý tưởng Day 16: AI PT Copilot cho người mới tập kháng lực.
+- Ưu tiên logic sản phẩm, phạm vi MVP và metric có thể hành động.
